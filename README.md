@@ -1,0 +1,2 @@
+# spiderwct
+Django Project
